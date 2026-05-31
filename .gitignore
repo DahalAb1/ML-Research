@@ -1,2 +1,8 @@
 .venv 
 .vscode
+
+# python script to conver ipynb to pdf
+convert_to_pdf.py
+
+# folder that stores converted pdfs 
+pdfs
